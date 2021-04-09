@@ -1,0 +1,11 @@
+framework module BitcoinSigner {
+  umbrella header "BitcoinSigner.h"
+
+  export *
+  module * { export * }
+}
+
+module BitcoinSigner.Swift {
+    header "BitcoinSigner-Swift.h"
+    requires objc
+}

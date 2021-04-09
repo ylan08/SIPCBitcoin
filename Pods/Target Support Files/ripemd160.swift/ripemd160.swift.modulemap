@@ -1,0 +1,6 @@
+framework module ripemd160 {
+  umbrella header "ripemd160.swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

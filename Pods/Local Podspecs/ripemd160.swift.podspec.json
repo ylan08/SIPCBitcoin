@@ -1,0 +1,22 @@
+{
+  "name": "ripemd160.swift",
+  "version": "1.0.0",
+  "summary": "ripemd160.swift.",
+  "homepage": "https://github.com/cezres/ripemd160.swift",
+  "license": "MIT",
+  "authors": "",
+  "swift_versions": "5",
+  "module_name": "ripemd160",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/cezres/ripemd160.swift.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "ripemd160.swift",
+    "Sources/ripemd160/*.{swift}"
+  ],
+  "swift_version": "5"
+}
